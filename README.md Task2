@@ -1,0 +1,25 @@
+Name: P.PRIYADHARSHINI Company: CODTECH IT SOLUTIONS ID:CT08FAU Domain: Artificial Intelligence Duration: December 2024 to January 2025 Mentor: Neela Santhosh Kumar
+Overview Of the Project
+Prerequisites: Python NumPy, Python OpenCV
+
+Every image is represented by 3 colors that are Red, Green and Blue. Let us see how to find the most dominant color captured by the webcam using Python.
+
+Objective
+CV
+
+Key Points
+Approach:
+
+Import the cv2 and NumPy modules
+Capture the webcam video using the cv2.VideoCapture(0) method.
+Display the current frame using the cv2.imshow() method.
+Run a while loop and take the current frame using the read() method.
+Take the red, blue and green elements and store them in a list.
+Compute the average of each list.
+Whichever average has the greatest value, display that color.
+
+Insights
+Looking to dive into the world of programming or sharpen your Python skills? Our Master Python:
+
+Conclusion
+your ultimate guide to becoming proficient in Python. This course covers everything you need to build a solid foundation from fundamental programming concepts to advanced techniques. With hands-on projects, real-world examples, and expert guidance, you'll gain the confidence to tackle complex coding challenges. Whether you're starting from scratch or aiming to enhance your skills, this course is the perfect fit. Enroll now and master Python, the language of the future!
