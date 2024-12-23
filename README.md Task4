@@ -4,6 +4,9 @@ Prerequisites: Python NumPy, Python OpenCV
 
 Every image is represented by 3 colors that are Red, Green and Blue. Let us see how to find the most dominant color captured by the webcam using Python.
 
+Task Four
+Computer Vision Task
+
 Project Name
 Detecting the Color Of an Object Using Open CV
 
